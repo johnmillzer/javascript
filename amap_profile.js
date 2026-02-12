@@ -11,7 +11,7 @@ if (obj.data && obj.data.cardList) {
         "MineGoodsDisplayCard",        // 个性化导航
         "MineUserEmblemCard",          // 成就勋章
         "MineStatisticCard",           // 一周成长
-        "MineMemberRecommendTaskCard", // 达人任务
+        //"MineMemberRecommendTaskCard", // 达人任务
         "UserCircleCard",              // 好友动态
         "MineNewDoubleRowCard",        // 我的车、借钱 (二者同属一个大卡片)
         "MineNewVirtualAssetCard",     // 语音包、车标 (二者同属一个大卡片)
