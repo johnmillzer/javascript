@@ -10,7 +10,7 @@ if (obj.data && obj.data.cardList) {
         "PopularActivitiesCard",       // 互动专区
         "MineGoodsDisplayCard",        // 个性化导航
         "MineUserEmblemCard",          // 成就勋章
-        //"MineStatisticCard",           // 一周成长
+        "MineStatisticCard",           // 一周成长
         "MineMemberRecommendTaskCard", // 达人任务
         "UserCircleCard",              // 好友动态
         "MineNewDoubleRowCard",        // 我的车、借钱 (二者同属一个大卡片)
